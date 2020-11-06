@@ -10,5 +10,7 @@ import UIKit
 public extension UILabel {
     public func underLine(){
         self.backgroundColor = UIColor.orange
+        self.textColor = UIColor.blue
+        
     }
 }
